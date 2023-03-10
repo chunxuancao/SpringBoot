@@ -1,0 +1,8 @@
+{
+    "markdown.validate.ignoredLinks": [
+        "依赖一.png"
+    ],
+    "markdown.preview.breaks": true,
+    "files.encoding": "gbk",
+    "files.autoGuessEncoding": true
+}
